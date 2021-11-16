@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"  ?>
+<shop>
+    <town>Минск</town>
+    <street>Янки Брыля 24</street>
+    <firm>Марк Формель</firm>
+    <clothes>
+        <elements>
+            <type>Джинсы</type>
+            <model>Клеш</model>
+            <price>90</price>
+        </elements>
+        <elements>
+            <type>Юбка</type>
+            <model>Карандаш</model>
+            <price>45</price>
+        </elements>
+        <elements>
+            <type>Блузка</type>
+            <model>Воротник Аскот</model>
+            <price>70</price>
+        </elements>
+        <elements>
+            <type>Шорты</type>
+            <model>Завышенная талия</model>
+            <price>60</price>
+        </elements>
+        <elements>
+            <type>Шорты</type>
+            <model>Длинные</model>
+            <price>90</price>
+        </elements>
+        <elements>
+            <type>Джинсы</type>
+            <model>Скинни</model>
+            <price>180</price>
+        </elements>
+        <elements>
+            <type>Джинсы</type>
+            <model>Слим</model>
+            <price>220</price>
+        </elements>
+    </clothes>
+</shop>
